@@ -1,0 +1,1669 @@
+Luminosidad: 56%
+Humedad: 3%
+Distancia: 77.03cm
+57.62°C
+
+Luminosidad: 61%
+Humedad: 2%
+Distancia: 55.35cm
+53.22°C
+
+Luminosidad: 58%
+Humedad: 2%
+Distancia: 76.72cm
+52.73°C
+
+Luminosidad: 59%
+Humedad: 2%
+Distancia: 80.46cm
+50.78°C
+
+Luminosidad: 58%
+Humedad: 3%
+Distancia: 70.11cm
+51.27°C
+
+Luminosidad: 58%
+Humedad: 2%
+Distancia: 70.04cm
+51.27°C
+
+Luminosidad: 59%
+Humedad: 2%
+Distancia: 69.67cm
+53.22°C
+
+Luminosidad: 58%
+Humedad: 3%
+Distancia: 78.29cm
+52.25°C
+
+Luminosidad: 59%
+Humedad: 2%
+Distancia: 101.03cm
+51.27°C
+
+Luminosidad: 58%
+Humedad: 2%
+Distancia: 77.40cm
+51.27°C
+
+Luminosidad: 57%
+Humedad: 2%
+Distancia: 54.60cm
+53.22°C
+
+Luminosidad: 62%
+Humedad: 2%
+Distancia: 69.17cm
+53.22°C
+
+Luminosidad: 66%
+Humedad: 2%
+Distancia: 70.07cm
+52.25°C
+
+Luminosidad: 49%
+Humedad: 1%
+Distancia: 70.91cm
+52.25°C
+
+Luminosidad: 62%
+Humedad: 1%
+Distancia: 48.94cm
+52.25°C
+
+Luminosidad: 64%
+Humedad: 1%
+Distancia: 50.34cm
+52.25°C
+
+Luminosidad: 64%
+Humedad: 1%
+Distancia: 71.37cm
+51.27°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 53.33cm
+51.27°C
+
+Luminosidad: 69%
+Humedad: 72%
+Distancia: 52.02cm
+47.85°C
+
+Luminosidad: 66%
+Humedad: 68%
+Distancia: 52.05cm
+45.41°C
+
+Luminosidad: 65%
+Humedad: 65%
+Distancia: 52.92cm
+27.83°C
+
+Luminosidad: 65%
+Humedad: 62%
+Distancia: 52.51cm
+47.36°C
+
+Luminosidad: 65%
+Humedad: 60%
+Distancia: 52.04cm
+44.92°C
+
+Luminosidad: 65%
+Humedad: 59%
+Distancia: 51.66cm
+40.04°C
+
+Luminosidad: 64%
+Humedad: 59%
+Distancia: 53.23cm
+51.76°C
+
+Luminosidad: 64%
+Humedad: 59%
+Distancia: 70.11cm
+50.78°C
+
+Luminosidad: 53%
+Humedad: 2%
+Distancia: 51.20cm
+50.78°C
+
+Luminosidad: 54%
+Humedad: 2%
+Distancia: 52.04cm
+51.27°C
+
+Luminosidad: 54%
+Humedad: 3%
+Distancia: 14.47cm
+50.78°C
+
+Luminosidad: 63%
+Humedad: 2%
+Distancia: 14.55cm
+54.69°C
+
+Luminosidad: 61%
+Humedad: 3%
+Distancia: 52.26cm
+52.25°C
+
+Luminosidad: 63%
+Humedad: 2%
+Distancia: 53.75cm
+51.27°C
+
+Luminosidad: 66%
+Humedad: 2%
+Distancia: 69.67cm
+54.69°C
+
+Luminosidad: 63%
+Humedad: 2%
+Distancia: 69.65cm
+50.78°C
+
+Luminosidad: 64%
+Humedad: 3%
+Distancia: 53.28cm
+52.25°C
+
+Luminosidad: 65%
+Humedad: 2%
+Distancia: 53.75cm
+50.78°C
+
+Luminosidad: 66%
+Humedad: 5%
+Distancia: 54.16cm
+52.25°C
+
+Luminosidad: 70%
+Humedad: 79%
+Distancia: 53.31cm
+50.29°C
+
+Luminosidad: 64%
+Humedad: 77%
+Distancia: 69.04cm
+41.02°C
+
+Luminosidad: 65%
+Humedad: 75%
+Distancia: 69.68cm
+23.93°C
+
+Luminosidad: 63%
+Humedad: 74%
+Distancia: 54.16cm
+45.41°C
+
+Luminosidad: 64%
+Humedad: 72%
+Distancia: 70.04cm
+17.09°C
+
+Luminosidad: 65%
+Humedad: 71%
+Distancia: 69.27cm
+46.88°C
+
+Luminosidad: 66%
+Humedad: 69%
+Distancia: 69.29cm
+15.63°C
+
+Luminosidad: 66%
+Humedad: 67%
+Distancia: 68.80cm
+46.39°C
+
+Luminosidad: 64%
+Humedad: 65%
+Distancia: 70.11cm
+45.41°C
+
+Luminosidad: 62%
+Humedad: 65%
+Distancia: 69.70cm
+33.69°C
+
+Luminosidad: 63%
+Humedad: 65%
+Distancia: 70.96cm
+46.39°C
+
+Luminosidad: 64%
+Humedad: 63%
+Distancia: 70.11cm
+32.23°C
+
+Luminosidad: 64%
+Humedad: 63%
+Distancia: 69.27cm
+47.85°C
+
+Luminosidad: 64%
+Humedad: 1%
+Distancia: 69.97cm
+46.88°C
+
+Luminosidad: 58%
+Humedad: 2%
+Distancia: 52.21cm
+51.27°C
+
+Luminosidad: 60%
+Humedad: 2%
+Distancia: 68.39cm
+51.76°C
+
+Luminosidad: 63%
+Humedad: 2%
+Distancia: 53.72cm
+53.22°C
+
+Luminosidad: 69%
+Humedad: 47%
+Distancia: 69.60cm
+49.32°C
+
+Luminosidad: 70%
+Humedad: 67%
+Distancia: 55.76cm
+51.27°C
+
+Luminosidad: 66%
+Humedad: 73%
+Distancia: 69.63cm
+8.30°C
+
+Luminosidad: 65%
+Humedad: 73%
+Distancia: 69.24cm
+47.36°C
+
+Luminosidad: 65%
+Humedad: 76%
+Distancia: 70.69cm
+9.77°C
+
+Luminosidad: 65%
+Humedad: 75%
+Distancia: 69.22cm
+41.99°C
+
+Luminosidad: 64%
+Humedad: 74%
+Distancia: 69.67cm
+41.02°C
+
+Luminosidad: 65%
+Humedad: 73%
+Distancia: 68.80cm
+29.79°C
+
+Luminosidad: 65%
+Humedad: 72%
+Distancia: 70.50cm
+43.95°C
+
+Luminosidad: 62%
+Humedad: 71%
+Distancia: 70.11cm
+29.30°C
+
+Luminosidad: 61%
+Humedad: 70%
+Distancia: 70.91cm
+44.92°C
+
+Luminosidad: 63%
+Humedad: 69%
+Distancia: 70.94cm
+29.30°C
+
+Luminosidad: 64%
+Humedad: 68%
+Distancia: 70.04cm
+45.90°C
+
+Luminosidad: 63%
+Humedad: 67%
+Distancia: 69.84cm
+27.34°C
+
+Luminosidad: 61%
+Humedad: 1%
+Distancia: 70.09cm
+47.85°C
+
+Luminosidad: 57%
+Humedad: 2%
+Distancia: 70.48cm
+52.25°C
+
+Luminosidad: 58%
+Humedad: 5%
+Distancia: 68.83cm
+52.73°C
+
+Luminosidad: 61%
+Humedad: 2%
+Distancia: 70.48cm
+63.96°C
+
+Luminosidad: 46%
+Humedad: 3%
+Distancia: 49.54cm
+52.25°C
+
+Luminosidad: 45%
+Humedad: 1%
+Distancia: 70.09cm
+52.25°C
+
+Luminosidad: 48%
+Humedad: 1%
+Distancia: 49.20cm
+52.25°C
+
+Luminosidad: 62%
+Humedad: 1%
+Distancia: 2272.90cm
+53.22°C
+
+Luminosidad: 65%
+Humedad: 1%
+Distancia: 2273.43cm
+49.80°C
+
+Luminosidad: 65%
+Humedad: 1%
+Distancia: 2273.36cm
+51.27°C
+
+Luminosidad: 65%
+Humedad: 1%
+Distancia: 2272.59cm
+51.76°C
+
+Luminosidad: 63%
+Humedad: 1%
+Distancia: 2272.90cm
+53.22°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 2272.66cm
+51.76°C
+
+Luminosidad: 62%
+Humedad: 1%
+Distancia: 2273.48cm
+52.25°C
+
+Luminosidad: 64%
+Humedad: 1%
+Distancia: 2273.27cm
+51.27°C
+
+Luminosidad: 64%
+Humedad: 1%
+Distancia: 60.72cm
+51.27°C
+
+Luminosidad: 69%
+Humedad: 1%
+Distancia: 69.16cm
+50.78°C
+
+Luminosidad: 69%
+Humedad: 1%
+Distancia: 82.67cm
+53.22°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 81.38cm
+53.22°C
+
+Luminosidad: 69%
+Humedad: 1%
+Distancia: 85.70cm
+51.76°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 85.66cm
+50.29°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 72.76cm
+51.76°C
+
+Luminosidad: 66%
+Humedad: 1%
+Distancia: 45.15cm
+51.27°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 53.01cm
+51.76°C
+
+Luminosidad: 65%
+Humedad: 1%
+Distancia: 74.12cm
+52.25°C
+
+Luminosidad: 62%
+Humedad: 1%
+Distancia: 67.68cm
+50.78°C
+
+Luminosidad: 64%
+Humedad: 1%
+Distancia: 70.06cm
+52.25°C
+
+Luminosidad: 65%
+Humedad: 1%
+Distancia: 69.65cm
+50.78°C
+
+Luminosidad: 66%
+Humedad: 1%
+Distancia: 70.84cm
+51.27°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 70.89cm
+52.73°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 71.31cm
+52.73°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 70.41cm
+51.27°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 70.89cm
+53.71°C
+
+Luminosidad: 64%
+Humedad: 1%
+Distancia: 71.59cm
+52.73°C
+
+Luminosidad: 65%
+Humedad: 1%
+Distancia: 70.47cm
+52.25°C
+
+Luminosidad: 64%
+Humedad: 1%
+Distancia: 70.06cm
+50.29°C
+
+Luminosidad: 65%
+Humedad: 1%
+Distancia: 61.10cm
+52.73°C
+
+Luminosidad: 65%
+Humedad: 1%
+Distancia: 68.83cm
+52.73°C
+
+Luminosidad: 66%
+Humedad: 1%
+Distancia: 68.78cm
+52.25°C
+
+Luminosidad: 66%
+Humedad: 1%
+Distancia: 69.24cm
+54.20°C
+
+Luminosidad: 66%
+Humedad: 1%
+Distancia: 69.24cm
+50.78°C
+
+Luminosidad: 66%
+Humedad: 1%
+Distancia: 68.78cm
+51.76°C
+
+Luminosidad: 65%
+Humedad: 1%
+Distancia: 70.09cm
+52.25°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 68.87cm
+53.71°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 68.59cm
+51.27°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 68.46cm
+50.78°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 69.70cm
+53.22°C
+
+Luminosidad: 67%
+Humedad: 2%
+Distancia: 69.72cm
+51.76°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 69.72cm
+51.27°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 68.46cm
+50.29°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 68.87cm
+53.22°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 48.18cm
+52.73°C
+
+Luminosidad: 52%
+Humedad: 1%
+Distancia: 68.48cm
+52.73°C
+
+Luminosidad: 42%
+Humedad: 1%
+Distancia: 49.76cm
+53.71°C
+
+Luminosidad: 47%
+Humedad: 1%
+Distancia: 68.85cm
+51.27°C
+
+Luminosidad: 56%
+Humedad: 1%
+Distancia: 70.07cm
+50.78°C
+
+Luminosidad: 50%
+Humedad: 1%
+Distancia: 68.82cm
+51.27°C
+
+Luminosidad: 64%
+Humedad: 1%
+Distancia: 68.41cm
+53.71°C
+
+Luminosidad: 61%
+Humedad: 1%
+Distancia: 44.83cm
+53.22°C
+
+Luminosidad: 59%
+Humedad: 1%
+Distancia: 71.08cm
+50.78°C
+
+Luminosidad: 46%
+Humedad: 1%
+Distancia: 73.17cm
+51.76°C
+
+Luminosidad: 42%
+Humedad: 1%
+Distancia: 28.75cm
+51.76°C
+
+Luminosidad: 36%
+Humedad: 1%
+Distancia: 72.95cm
+53.71°C
+
+Luminosidad: 45%
+Humedad: 1%
+Distancia: 10.68cm
+50.29°C
+
+Luminosidad: 44%
+Humedad: 1%
+Distancia: 76.50cm
+53.22°C
+
+Luminosidad: 40%
+Humedad: 1%
+Distancia: 6.21cm
+52.73°C
+
+Luminosidad: 37%
+Humedad: 1%
+Distancia: 7.28cm
+54.20°C
+
+Luminosidad: 40%
+Humedad: 1%
+Distancia: 80.27cm
+52.73°C
+
+Luminosidad: 42%
+Humedad: 1%
+Distancia: 6.66cm
+52.25°C
+
+Luminosidad: 43%
+Humedad: 1%
+Distancia: 7.84cm
+53.71°C
+
+Luminosidad: 41%
+Humedad: 1%
+Distancia: 2275.04cm
+51.27°C
+
+Luminosidad: 42%
+Humedad: 1%
+Distancia: 2273.36cm
+53.71°C
+
+Luminosidad: 41%
+Humedad: 1%
+Distancia: 2273.53cm
+50.78°C
+
+Luminosidad: 37%
+Humedad: 1%
+Distancia: 2273.72cm
+52.25°C
+
+Luminosidad: 32%
+Humedad: 1%
+Distancia: 2273.50cm
+51.27°C
+
+Luminosidad: 32%
+Humedad: 1%
+Distancia: 2273.66cm
+52.25°C
+
+Luminosidad: 35%
+Humedad: 1%
+Distancia: 2273.60cm
+51.27°C
+
+Luminosidad: 32%
+Humedad: 1%
+Distancia: 2273.66cm
+51.76°C
+
+Luminosidad: 28%
+Humedad: 1%
+Distancia: 2273.33cm
+52.25°C
+
+Luminosidad: 38%
+Humedad: 1%
+Distancia: 2274.14cm
+49.32°C
+
+Luminosidad: 42%
+Humedad: 1%
+Distancia: 2273.97cm
+51.27°C
+
+Luminosidad: 44%
+Humedad: 1%
+Distancia: 2273.73cm
+51.27°C
+
+Luminosidad: 39%
+Humedad: 1%
+Distancia: 2273.41cm
+52.25°C
+
+Luminosidad: 43%
+Humedad: 1%
+Distancia: 2273.48cm
+51.76°C
+
+Luminosidad: 43%
+Humedad: 2%
+Distancia: 2273.80cm
+53.71°C
+
+Luminosidad: 44%
+Humedad: 1%
+Distancia: 2273.84cm
+52.73°C
+
+Luminosidad: 44%
+Humedad: 1%
+Distancia: 2274.12cm
+52.73°C
+
+Luminosidad: 48%
+Humedad: 1%
+Distancia: 2273.56cm
+52.73°C
+
+Luminosidad: 48%
+Humedad: 1%
+Distancia: 2273.63cm
+52.73°C
+
+Luminosidad: 46%
+Humedad: 1%
+Distancia: 2273.36cm
+52.25°C
+
+Luminosidad: 47%
+Humedad: 1%
+Distancia: 2273.73cm
+52.25°C
+
+Luminosidad: 44%
+Humedad: 1%
+Distancia: 2274.36cm
+52.25°C
+
+Luminosidad: 50%
+Humedad: 1%
+Distancia: 2275.18cm
+50.29°C
+
+Luminosidad: 50%
+Humedad: 1%
+Distancia: 2274.79cm
+51.76°C
+
+Luminosidad: 51%
+Humedad: 1%
+Distancia: 2274.60cm
+51.27°C
+
+Luminosidad: 50%
+Humedad: 1%
+Distancia: 2274.74cm
+50.78°C
+
+Luminosidad: 54%
+Humedad: 1%
+Distancia: 2274.19cm
+51.76°C
+
+Luminosidad: 54%
+Humedad: 1%
+Distancia: 90.05cm
+50.78°C
+
+Luminosidad: 53%
+Humedad: 1%
+Distancia: 29.53cm
+52.73°C
+
+Luminosidad: 53%
+Humedad: 1%
+Distancia: 29.39cm
+52.73°C
+
+Luminosidad: 53%
+Humedad: 1%
+Distancia: 29.12cm
+53.22°C
+
+Luminosidad: 53%
+Humedad: 1%
+Distancia: 29.65cm
+52.73°C
+
+Luminosidad: 50%
+Humedad: 1%
+Distancia: 29.12cm
+51.27°C
+
+Luminosidad: 51%
+Humedad: 1%
+Distancia: 32.20cm
+53.22°C
+
+Luminosidad: 62%
+Humedad: 1%
+Distancia: 109.12cm
+50.78°C
+
+Luminosidad: 65%
+Humedad: 1%
+Distancia: 90.52cm
+51.76°C
+
+Luminosidad: 63%
+Humedad: 1%
+Distancia: 60.03cm
+51.27°C
+
+Luminosidad: 56%
+Humedad: 1%
+Distancia: 2274.48cm
+51.27°C
+
+Luminosidad: 58%
+Humedad: 1%
+Distancia: 2274.50cm
+51.27°C
+
+Luminosidad: 65%
+Humedad: 1%
+Distancia: 2274.45cm
+50.29°C
+
+Luminosidad: 66%
+Humedad: 2%
+Distancia: 2274.57cm
+52.25°C
+
+Luminosidad: 60%
+Humedad: 1%
+Distancia: 2274.36cm
+52.25°C
+
+Luminosidad: 63%
+Humedad: 1%
+Distancia: 2274.80cm
+50.78°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 2274.52cm
+50.78°C
+
+Luminosidad: 66%
+Humedad: 1%
+Distancia: 2274.17cm
+50.78°C
+
+Luminosidad: 66%
+Humedad: 1%
+Distancia: 66.79cm
+53.22°C
+
+Luminosidad: 66%
+Humedad: 1%
+Distancia: 31.03cm
+50.29°C
+
+Luminosidad: 66%
+Humedad: 1%
+Distancia: 31.69cm
+51.76°C
+
+Luminosidad: 66%
+Humedad: 1%
+Distancia: 31.28cm
+51.76°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 31.28cm
+51.76°C
+
+Luminosidad: 66%
+Humedad: 1%
+Distancia: 30.87cm
+51.27°C
+
+Luminosidad: 66%
+Humedad: 1%
+Distancia: 30.62cm
+52.73°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 31.26cm
+51.27°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 31.79cm
+52.25°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 31.26cm
+51.76°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 31.67cm
+53.22°C
+
+Luminosidad: 66%
+Humedad: 1%
+Distancia: 31.03cm
+51.27°C
+
+Luminosidad: 66%
+Humedad: 1%
+Distancia: 31.67cm
+53.71°C
+
+Luminosidad: 66%
+Humedad: 1%
+Distancia: 30.82cm
+53.22°C
+
+Luminosidad: 66%
+Humedad: 1%
+Distancia: 30.80cm
+50.78°C
+
+Luminosidad: 66%
+Humedad: 1%
+Distancia: 30.86cm
+53.22°C
+
+Luminosidad: 66%
+Humedad: 1%
+Distancia: 31.45cm
+50.78°C
+
+Luminosidad: 66%
+Humedad: 1%
+Distancia: 31.37cm
+52.73°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 30.86cm
+51.76°C
+
+Luminosidad: 66%
+Humedad: 1%
+Distancia: 31.37cm
+51.76°C
+
+Luminosidad: 66%
+Humedad: 1%
+Distancia: 31.69cm
+51.76°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 30.41cm
+52.73°C
+
+Luminosidad: 66%
+Humedad: 1%
+Distancia: 31.86cm
+53.22°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 31.67cm
+52.25°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 31.67cm
+52.25°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 29.99cm
+52.25°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 31.79cm
+52.25°C
+
+Luminosidad: 66%
+Humedad: 1%
+Distancia: 30.60cm
+51.27°C
+
+Luminosidad: 66%
+Humedad: 1%
+Distancia: 31.37cm
+50.78°C
+
+Luminosidad: 66%
+Humedad: 1%
+Distancia: 31.26cm
+50.78°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 30.82cm
+50.29°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 31.69cm
+51.27°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 31.45cm
+51.76°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 30.84cm
+52.25°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 31.26cm
+50.29°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 31.77cm
+53.22°C
+
+Luminosidad: 65%
+Humedad: 1%
+Distancia: 31.67cm
+51.27°C
+
+Luminosidad: 66%
+Humedad: 1%
+Distancia: 30.92cm
+52.25°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 31.26cm
+52.25°C
+
+Luminosidad: 66%
+Humedad: 1%
+Distancia: 32.10cm
+51.27°C
+
+Luminosidad: 62%
+Humedad: 1%
+Distancia: 31.67cm
+52.73°C
+
+Luminosidad: 65%
+Humedad: 1%
+Distancia: 32.08cm
+51.76°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 32.35cm
+52.25°C
+
+Luminosidad: 56%
+Humedad: 1%
+Distancia: 31.21cm
+53.22°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 32.49cm
+52.25°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 30.80cm
+51.76°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 30.82cm
+52.73°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 30.57cm
+52.25°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 30.80cm
+53.22°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 30.82cm
+51.76°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 30.79cm
+50.78°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 31.21cm
+51.76°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 30.97cm
+51.27°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 31.94cm
+51.27°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 30.80cm
+50.78°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 30.91cm
+50.78°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 31.25cm
+52.25°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 32.10cm
+50.29°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 31.04cm
+50.78°C
+
+Luminosidad: 69%
+Humedad: 1%
+Distancia: 32.08cm
+52.73°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 32.10cm
+50.78°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 32.10cm
+51.27°C
+
+Luminosidad: 69%
+Humedad: 1%
+Distancia: 31.76cm
+51.76°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 31.86cm
+52.25°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 30.82cm
+52.73°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 30.80cm
+50.78°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 30.40cm
+53.71°C
+
+Luminosidad: 69%
+Humedad: 1%
+Distancia: 31.25cm
+51.76°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 31.67cm
+52.25°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 30.92cm
+52.73°C
+
+Luminosidad: 69%
+Humedad: 1%
+Distancia: 30.80cm
+50.78°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 31.33cm
+52.73°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 31.23cm
+53.71°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 31.09cm
+52.73°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 32.10cm
+50.78°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 30.80cm
+52.73°C
+
+Luminosidad: 69%
+Humedad: 1%
+Distancia: 30.82cm
+51.27°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 30.40cm
+51.76°C
+
+Luminosidad: 69%
+Humedad: 1%
+Distancia: 30.57cm
+52.73°C
+
+Luminosidad: 69%
+Humedad: 1%
+Distancia: 30.80cm
+51.76°C
+
+Luminosidad: 70%
+Humedad: 1%
+Distancia: 30.80cm
+49.80°C
+
+Luminosidad: 69%
+Humedad: 1%
+Distancia: 30.80cm
+50.78°C
+
+Luminosidad: 69%
+Humedad: 1%
+Distancia: 30.80cm
+52.25°C
+
+Luminosidad: 69%
+Humedad: 1%
+Distancia: 30.57cm
+52.25°C
+
+Luminosidad: 69%
+Humedad: 1%
+Distancia: 30.57cm
+51.27°C
+
+Luminosidad: 69%
+Humedad: 1%
+Distancia: 30.82cm
+50.78°C
+
+Luminosidad: 69%
+Humedad: 1%
+Distancia: 30.91cm
+52.73°C
+
+Luminosidad: 69%
+Humedad: 1%
+Distancia: 30.80cm
+52.25°C
+
+Luminosidad: 70%
+Humedad: 1%
+Distancia: 30.50cm
+52.73°C
+
+Luminosidad: 69%
+Humedad: 1%
+Distancia: 31.43cm
+51.76°C
+
+Luminosidad: 69%
+Humedad: 1%
+Distancia: 30.52cm
+50.78°C
+
+Luminosidad: 69%
+Humedad: 1%
+Distancia: 32.08cm
+52.25°C
+
+Luminosidad: 69%
+Humedad: 1%
+Distancia: 30.40cm
+52.25°C
+
+Luminosidad: 69%
+Humedad: 1%
+Distancia: 31.67cm
+52.73°C
+
+Luminosidad: 69%
+Humedad: 1%
+Distancia: 31.86cm
+52.25°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 32.08cm
+51.76°C
+
+Luminosidad: 70%
+Humedad: 1%
+Distancia: 30.80cm
+51.76°C
+
+Luminosidad: 69%
+Humedad: 1%
+Distancia: 30.50cm
+51.27°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 30.40cm
+51.27°C
+
+Luminosidad: 69%
+Humedad: 1%
+Distancia: 30.35cm
+52.25°C
+
+Luminosidad: 69%
+Humedad: 1%
+Distancia: 30.82cm
+51.76°C
+
+Luminosidad: 69%
+Humedad: 1%
+Distancia: 30.91cm
+51.76°C
+
+Luminosidad: 69%
+Humedad: 1%
+Distancia: 30.80cm
+50.78°C
+
+Luminosidad: 69%
+Humedad: 1%
+Distancia: 30.50cm
+52.73°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 30.57cm
+50.78°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 30.91cm
+53.71°C
+
+Luminosidad: 69%
+Humedad: 1%
+Distancia: 31.64cm
+50.78°C
+
+Luminosidad: 69%
+Humedad: 1%
+Distancia: 30.92cm
+51.27°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 32.08cm
+52.25°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 32.27cm
+50.29°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 2273.00cm
+50.78°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 191.62cm
+51.76°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 76.04cm
+53.22°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 86.48cm
+52.73°C
+
+Luminosidad: 67%
+Humedad: 0%
+Distancia: 87.65cm
+52.25°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 87.69cm
+51.76°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 29.77cm
+51.27°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 30.09cm
+49.80°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 30.41cm
+52.25°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 30.09cm
+53.22°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 31.23cm
+52.25°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 29.72cm
+51.76°C
+
+Luminosidad: 65%
+Humedad: 1%
+Distancia: 28.24cm
+52.73°C
+
+Luminosidad: 55%
+Humedad: 1%
+Distancia: 29.21cm
+51.27°C
+
+Luminosidad: 69%
+Humedad: 1%
+Distancia: 27.83cm
+52.25°C
+
+Luminosidad: 69%
+Humedad: 1%
+Distancia: 27.93cm
+51.76°C
+
+Luminosidad: 69%
+Humedad: 1%
+Distancia: 27.61cm
+50.78°C
+
+Luminosidad: 72%
+Humedad: 1%
+Distancia: 27.83cm
+50.78°C
+
+Luminosidad: 70%
+Humedad: 1%
+Distancia: 27.95cm
+52.25°C
+
+Luminosidad: 68%
+Humedad: 1%
+Distancia: 28.25cm
+51.27°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 27.95cm
+52.25°C
+
+Luminosidad: 59%
+Humedad: 1%
+Distancia: 27.85cm
+51.76°C
+
+Luminosidad: 59%
+Humedad: 1%
+Distancia: 28.48cm
+52.73°C
+
+Luminosidad: 62%
+Humedad: 1%
+Distancia: 29.12cm
+51.27°C
+
+Luminosidad: 62%
+Humedad: 1%
+Distancia: 28.29cm
+52.73°C
+
+Luminosidad: 62%
+Humedad: 1%
+Distancia: 28.71cm
+51.27°C
+
+Luminosidad: 64%
+Humedad: 1%
+Distancia: 28.70cm
+51.27°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 29.22cm
+52.25°C
+
+Luminosidad: 64%
+Humedad: 1%
+Distancia: 28.24cm
+52.25°C
+
+Luminosidad: 61%
+Humedad: 1%
+Distancia: 28.36cm
+51.76°C
+
+Luminosidad: 60%
+Humedad: 1%
+Distancia: 28.24cm
+51.27°C
+
+Luminosidad: 60%
+Humedad: 1%
+Distancia: 28.34cm
+51.27°C
+
+Luminosidad: 59%
+Humedad: 1%
+Distancia: 28.46cm
+50.29°C
+
+Luminosidad: 56%
+Humedad: 1%
+Distancia: 28.71cm
+53.71°C
+
+Luminosidad: 64%
+Humedad: 2%
+Distancia: 29.22cm
+53.22°C
+
+Luminosidad: 63%
+Humedad: 1%
+Distancia: 28.29cm
+52.25°C
+
+Luminosidad: 64%
+Humedad: 1%
+Distancia: 28.36cm
+51.76°C
+
+Luminosidad: 65%
+Humedad: 1%
+Distancia: 28.29cm
+51.76°C
+
+Luminosidad: 67%
+Humedad: 0%
+Distancia: 28.29cm
+74.22°C
+
+Luminosidad: 67%
+Humedad: 1%
+Distancia: 28.82cm
+51.76°C
+
+Luminosidad: 65%
+Humedad: 2%
+Distancia: 29.14cm
+53.22°C
